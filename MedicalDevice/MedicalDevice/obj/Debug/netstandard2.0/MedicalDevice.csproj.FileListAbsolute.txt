@@ -1,0 +1,13 @@
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\bin\Debug\netstandard2.0\MedicalDevice.deps.json
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\bin\Debug\netstandard2.0\MedicalDevice.dll
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\bin\Debug\netstandard2.0\MedicalDevice.pdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.csprojResolveAssemblyReference.cache
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.csproj.CoreCompileInputs.cache
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.App.xaml.g.cs
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.MainPage.xaml.g.cs
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.AssemblyInfoInputs.cache
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.AssemblyInfo.cs
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.dll
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.pdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.TestPage.xaml.g.cs
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice\obj\Debug\netstandard2.0\MedicalDevice.SettingsPage.xaml.g.cs

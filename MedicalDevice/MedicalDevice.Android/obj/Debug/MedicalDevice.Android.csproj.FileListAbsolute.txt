@@ -1,0 +1,89 @@
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\MedicalDevice.Android.dll
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\MedicalDevice.Android.pdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\com.companyname.MedicalDevice.apk
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\com.companyname.MedicalDevice-Signed.apk
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\MedicalDevice.dll
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\MedicalDevice.pdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\MedicalDevice.Android.csprojResolveAssemblyReference.cache
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\MedicalDevice.Android.csproj.CoreCompileInputs.cache
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\MedicalDevice.Android.dll
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\MedicalDevice.Android.pdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\android\bin\com.companyname.MedicalDevice.apk
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\values\styles.xml
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\R.cs.flag
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\uploadflags.txt
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\MedicalDevice.Android.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\android\assets\MedicalDevice.Android.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable\heart.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-hdpi\heart.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-xhdpi\heart.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-xxhdpi\heart.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable\person.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-hdpi\person.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-xhdpi\person.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-xxhdpi\person.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable\settings.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-hdpi\settings.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-xhdpi\settings.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\obj\Debug\res\drawable-xxhdpi\settings.png
+C:\Users\Telmex\Documents\Visual Studio 2017\Projects\MedicalDevice\MedicalDevice\MedicalDevice.Android\bin\Debug\MedicalDevice.Android.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.IO.Compression.FileSystem.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Web.Services.pdb
+obj\Debug\linksrc\MedicalDevice.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\MedicalDevice.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Web.Services.pdb

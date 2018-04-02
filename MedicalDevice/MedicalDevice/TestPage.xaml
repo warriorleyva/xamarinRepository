@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MedicalDevice.TestPage"
+             Title="Configuración">
+
+    <TableView RowHeight="55">
+        <TableRoot>
+            <TableSection Title="MAX30180 CONFIGURACIÓN">
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="20,0">
+                        <Label Text="Corriente IR" FontSize="17" VerticalOptions="Center"></Label>
+                        <Picker Title="Corriente" HorizontalOptions="EndAndExpand" VerticalOptions="Center">
+                            <Picker.Items>
+                                <x:String> 0 mA</x:String>
+                                <x:String> 4 mA</x:String>
+                                <x:String> 7 mA</x:String>
+                                <x:String> 11 mA</x:String>
+                                <x:String> 14 mA</x:String>
+                                <x:String> 17 mA</x:String>
+                                <x:String> 20 mA</x:String>
+                                <x:String> 24 mA</x:String>
+                                <x:String> 27 mA</x:String>
+                                <x:String> 30 mA</x:String>
+                                <x:String> 33 mA</x:String>
+                                <x:String> 37 mA</x:String>
+                                <x:String> 40 mA</x:String>
+                                <x:String> 43 mA</x:String>
+                                <x:String> 46 mA</x:String>
+                                <x:String> 50 mA</x:String>
+                            </Picker.Items>
+                        </Picker>
+                    </StackLayout>
+                </ViewCell>
+
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="20,0">
+                        <Label Text="Corriente Led" FontSize="17" VerticalOptions="Center"></Label>
+                        <Picker Title="Corriente" HorizontalOptions="EndAndExpand" VerticalOptions="Center">
+                            <Picker.Items>
+                                <x:String>0 mA</x:String>
+                                <x:String>4 mA</x:String>
+                                <x:String>7 mA</x:String>
+                                <x:String>11 mA</x:String>
+                                <x:String>14 mA</x:String>
+                                <x:String>17 mA</x:String>
+                                <x:String>20 mA</x:String>
+                                <x:String>24 mA</x:String>
+                                <x:String>27 mA</x:String>
+                                <x:String>30 mA</x:String>
+                                <x:String>33 mA</x:String>
+                                <x:String>37 mA</x:String>
+                                <x:String>40 mA</x:String>
+                                <x:String>43 mA</x:String>
+                                <x:String>46 mA</x:String>
+                                <x:String>50 mA</x:String>
+                            </Picker.Items>
+                        </Picker>
+                    </StackLayout>
+                </ViewCell>
+                
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="20,0">
+                        <Label Text="{Binding Source={x:Reference filterStepper}, Path=Value, StringFormat='Filtro {0}%'}" VerticalOptions="Center" FontSize="17"></Label>
+                        <Stepper x:Name="filterStepper" Increment="1" Maximum="100" Minimum="0" HorizontalOptions="EndAndExpand" VerticalOptions="Center"></Stepper>
+                    </StackLayout>
+                </ViewCell>
+            </TableSection>
+            
+            <TableSection Title="OFFSET">
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="20,0">
+                        <Label Text="{Binding Source={x:Reference bmpStepper}, Path=Value, StringFormat='{0} BMP'}" FontSize="17" VerticalOptions="Center"></Label>
+                        <Stepper x:Name="bmpStepper" Increment="1" Maximum="10" Minimum="-10" HorizontalOptions="EndAndExpand" VerticalOptions="Center"></Stepper>
+                    </StackLayout>
+                </ViewCell>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="20,0">
+                        <Label Text="{Binding Source={x:Reference sp02Stepper}, Path=Value, StringFormat='SP02  {0}%'}" FontSize="17" VerticalOptions="Center"></Label>
+                        <Stepper x:Name="sp02Stepper" Increment="1" Maximum="10" Minimum="-10" HorizontalOptions="EndAndExpand" VerticalOptions="Center"></Stepper>
+                    </StackLayout>
+                </ViewCell>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="20,0">
+                        <Label Text="{Binding Source={x:Reference tempStepper}, Path=Value, StringFormat='Temperatura {0:F1}°C'}" FontSize="17" VerticalOptions="Center"></Label>
+                        <Stepper x:Name="tempStepper" Increment="0.1" Maximum="2" Minimum="-2" HorizontalOptions="EndAndExpand" VerticalOptions="Center"></Stepper>
+                    </StackLayout>
+                </ViewCell>
+            </TableSection>
+        </TableRoot>
+    </TableView>
+</ContentPage>
